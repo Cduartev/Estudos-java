@@ -17,3 +17,4 @@ public class variavies_java_aula_1 {
 }
 /// testando usando o java 25 e java 20 testando as funcionalidades
 /// Aqui voce vai ver os tipos de variaveis INT DUBLE CHAR BOOLEAN STRING ISSO DAQUI E O BASICO DO BASICO
+/// AQUI PODE APLICAR O PADRAO CAMEL CASE TAMBEM CASO VOCE QUEIRA
