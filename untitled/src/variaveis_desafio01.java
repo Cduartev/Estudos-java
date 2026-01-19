@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class projeto_variaveis_java_aula_01 {
+public class variaveis_desafio01 {
     static void main() {
         String produto1 = "Computador";
         String produto2 = "Teclado";
