@@ -9,5 +9,4 @@ public class teste_processamento_desafio2 {
        IO.print(resultado);
     }
 
-
 }
