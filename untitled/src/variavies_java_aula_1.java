@@ -9,7 +9,7 @@ public class variavies_java_aula_1 {
         String nome = "Cayo";
 
         Locale.setDefault(Locale.US);
-        IO.println("A sua idade e " +idade);
+        IO.println("A sua idade e " + idade);
         System.out.printf("Sua altura %.2f%n", altura);
         System.out.println("O seu sexo e " + sexo);
         IO.println("Usuario Ativo? " + ativo);
