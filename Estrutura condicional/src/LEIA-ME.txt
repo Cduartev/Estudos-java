@@ -1,0 +1,90 @@
+📘 Exercícios – Estrutura Condicional (if / else) em Java
+
+Este conjunto de exercícios faz parte do Curso Java Completo, ministrado pelo Prof. Dr. Nélio Alves, e tem como objetivo fixar os conceitos básicos de estrutura condicional (if, else if, else), utilizando problemas clássicos de lógica retirados do URI / Beecrowd Online Judge.
+
+Os exercícios são essenciais para iniciantes em lógica de programação e ajudam a construir uma base sólida para o desenvolvimento em Java.
+
+🧠 Conteúdos praticados
+
+Leitura de dados com Scanner
+
+Comparações lógicas
+
+Operadores relacionais
+
+Operadores aritméticos
+
+Tomada de decisão com if / else
+
+Organização de regras em ordem correta
+
+Tratamento de casos especiais
+
+📌 Resumo dos Exercícios
+Exercício 01 — Número negativo ou não
+
+Verifica se um número inteiro é negativo ou não negativo, introduzindo a primeira tomada de decisão simples.
+
+Conceitos:
+Comparação básica (< 0) e if / else.
+
+Exercício 02 — Par ou ímpar
+
+Determina se um número inteiro é par ou ímpar.
+
+Conceitos:
+Operador módulo (%) e lógica condicional.
+
+Exercício 03 — Múltiplos
+
+Verifica se dois números inteiros são múltiplos entre si, independentemente da ordem em que são informados.
+
+Conceitos:
+Módulo, comparação entre valores e lógica simétrica.
+
+Exercício 04 — Duração de um jogo
+
+Calcula a duração de um jogo em horas, considerando que ele pode iniciar em um dia e terminar no outro.
+
+Conceitos:
+Regras condicionais, uso de limites (0 a 24 horas) e tratamento de virada de dia.
+
+Exercício 05 — Lanchonete (cálculo de conta)
+
+Calcula o valor total a pagar com base em um código de produto e uma quantidade.
+
+Conceitos:
+Mapeamento de códigos para valores, multiplicação e decisão condicional.
+
+Exercício 06 — Intervalos
+
+Identifica em qual intervalo numérico um valor se encontra ou se está fora de intervalo.
+
+Conceitos:
+Comparações múltiplas, operadores relacionais e atenção à inclusão/exclusão de limites.
+
+Exercício 07 — Plano cartesiano
+
+Determina o quadrante, eixo ou origem de um ponto no plano cartesiano a partir de coordenadas (x, y).
+
+Conceitos:
+Comparações combinadas, lógica geométrica e múltiplas condições.
+
+Exercício 08 — Imposto de Renda
+
+Calcula o Imposto de Renda com base em faixas salariais progressivas, considerando valores isentos e taxas diferentes.
+
+Conceitos:
+Regras encadeadas, cálculo por faixas, precisão decimal e lógica acumulativa.
+
+🎯 Objetivo do conjunto
+
+Esses exercícios ajudam a desenvolver:
+
+Raciocínio lógico
+
+Capacidade de traduzir regras em condições
+
+Leitura e interpretação de problemas
+
+Base sólida para Java, Spring Boot e Backend
