@@ -20,8 +20,6 @@ public class EstruturaCondicional {
         } else {
             IO.println("Codigo Nao cadastrado");
         }
-
-
     }
 
 }
